@@ -1,2 +1,2 @@
-# Web Studio-html-css-tema-1
+# goit-markup-hw-01
  Prima tema HTML si CSS
