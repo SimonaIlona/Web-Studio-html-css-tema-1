@@ -6,6 +6,9 @@
 *{
     font-family: var (--text-font-family);
 }
-.global-main {
+.global- section {
     background-color: #2E2F42;
+}
+.global-button type{
+    background-color:blue;
 }
