@@ -1,14 +1,157 @@
 :root {
     --link-color: #fff;
-    --heading-font-family:"Roboto", sans-serif;
-    --text-font-family:"Roboto", sans-serif;
+    .roboto-regular {
+            font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+    
+        .roboto-medium {
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-style: normal;
+        }
+    
+        .roboto-bold-italic {
+            font-family: "Roboto", sans-serif;
+            font-weight: 700;
+            font-style: italic;
+        }
+    
+            
+        .raleway-extra-bold{
+            font-family: "Raleway", sans-serif;
+            font-weight: 800;
+            font-style: normal;
+        }
+        
+        .global-header .main-nav{
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        color:#2E2F42
+        
+
+        }
+        .global-contacts {
+        font-family: "Roboto", sans-serif;
+         font-weight: 400;
+        font-style: normal;
+        color: #434455
+
+        }
+.button-service{
+    background-color:#4D5AE5;
+ color:#FFFFFF;
+    border-radius: 4px;
+    border-width: 11px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    width: Hug (169px);
+     height: Hug (56px);
+      top: 428px;
+      left: 636px;
+      padding: 16px, 32px, 16px, 32px;
+      border-radius: 4px; 
+      gap: 10px;
 }
-*{
-    font-family: var (--text-font-family);
+.button-All{
+    background-color: #404bbf;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color:#FFFFFF;
+    width: Hug (69px);
+    height: Hug (48px);
+    padding: 12px, 24px, 12px, 24px;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+    
+.exemple-element{
+    width: 16px; 
+    height: 16px;
+    top: 213px;
+    left: 482px;
+    padding: 0px, 1.33px, 0px, 1.33px;
 }
-.global- section {
+.button-Web{
+ background-color:#E7E9FC;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-style: normal;
+color: #4D5AE5;
+width: Hug (116px);
+ height: Hug (48px); 
+ padding: 12px, 24px, 12px, 24px;
+border-radius: 4px;
+border: 1px;
+}
+.button-App{
+    background-color: #E7E9FC;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #4D5AE5;
+    width: Hug (78px);
+     height: Hug (48px);
+      padding: 12px, 24px, 12px, 24px;
+     border-radius: 4px; 
+     border: 1px;
+}
+.button-Design{
+    background-color: #E7E9FC;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #4D5AE5;
+    width: Hug (101px);
+     height: Hug (48px);
+      padding: 12px, 24px, 12px, 24px;
+      border-radius: 4px;
+      border: 1px;
+  
+}
+.button-Marketing{
+    background-color: #E7E9FC;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #4D5AE5;
+    width: Hug (126px);
+     height: Hug (48px); 
+    padding: 12px, 24px, 12px, 24px;
+    border-radius: 4px;
+     border: 1px;
+}
+.albastru{
+    color:#4D5AE5;
+    font-family: "Raleway", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+        Size: 18px;
+        Line height: 21px; 
+    
+}
+.negru{
+    color:#2E2F42;
+   font-family: "Raleway", sans-serif;
+   font-weight: 800;
+   font-style: normal;
+   Size: 18px;
+    Line height: 21px;
+    
+}
+.alb{
+    color:#F4F4FD;
+    font-family: "Raleway", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+        Size: 18px;
+        Line height: 21px;
+}
+.global-footer{
     background-color: #2E2F42;
-}
-.global-button type{
-    background-color:blue;
+    color:#fff;
 }
