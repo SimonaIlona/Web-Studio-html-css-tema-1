@@ -42,19 +42,17 @@
         }
 .button-service{
     background-color:#4D5AE5;
- color:#FFFFFF;
-    border-radius: 4px;
-    border-width: 11px;
+    color:#FFFFFF;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-style: normal;
-    width: Hug (169px);
-     height: Hug (56px);
-      top: 428px;
-      left: 636px;
-      padding: 16px, 32px, 16px, 32px;
-      border-radius: 4px; 
-      gap: 10px;
+    width: Hug (169px); 
+    height: Hug (56px);
+     top: 428px ;
+     left: 636px ;
+     padding: 16px, 32px, 16px, 32px ;
+     border-radius: 4px ;
+     gap: 10px;
 }
 .button-All{
     background-color: #404bbf;
@@ -154,4 +152,14 @@ border: 1px;
 .global-footer{
     background-color: #2E2F42;
     color:#fff;
+}
+.fara-puncte{
+    list-style-type: none;
+}
+.hero-imagines{
+    background-color: #2E2F42;
+    color:#fff;
+}
+.Light-bg{
+    background-color:#F4F4FD;
 }
