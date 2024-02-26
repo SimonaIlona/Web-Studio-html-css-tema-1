@@ -43,7 +43,7 @@
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-style: normal;
-        color:#2E2F42
+        color:#2E2F42;
         
 
         }
@@ -189,24 +189,26 @@ white-space: nowrap;
 .global-footer{
     background-color: #2E2F42;
     color:#fff;
-    width: 1500px;
+    width: 1200px;
     height: 312px ;
     top: 2280px;
+    margin:0 auto;
 }
 .fara-puncte{
     list-style-type: none;
-width: 261px;
+width: 1200px;
  height:24px;
  top: 24px;
  left: 347px;
  gap: 40px;
 display: flex;
 justify-content: space-between;
+margin: 0 auto;
 }
 .hero-imagines{
     background-color: #2E2F42;
     color:#fff;
-    width: 1500px;
+    width: 1200px;
     height: 400px;
     top: 72px;
     display: flex;
@@ -215,14 +217,16 @@ justify-content: space-between;
         justify-content: center;
         align-items: center;
         align-content: space-around;
+        margin: 0 auto;
      
 }
 .Light-bg{
     background-color:#F4F4FD;
     text-align: center;
-    width: 1500px;
+    width: 1200px;
     height: 400px;
     top: 792px;
+    margin: 0 auto;
     
     
 }
@@ -241,10 +245,11 @@ justify-content: space-between;
     text-align: center;
     
     flex-direction: row;
-    width: 1128px;
+    width: 1200px;
     height: 104px ;
     top: 792px ;
     left: 156px;
+    margin: 0 auto;
 }
 .tilul-text{
     margin-bottom: 20px;
@@ -257,10 +262,11 @@ justify-content: space-between;
 }
 .container-imagini{
     text-align:center;
-    width: 1500px; 
+    width: 1200px; 
     height: 412px ;
     top: 1016px ;
     left: 156px;
+    margin: 0 auto;
 }
 .imagini{
     display: flex;
